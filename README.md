@@ -1,4 +1,4 @@
-# 💱 Currency Converter
+ # 💱 Currency Converter
 
 A simple and responsive **Currency Converter Web App** built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to convert values between different currencies in real time using live exchange rate data.
@@ -6,7 +6,7 @@ It allows users to convert values between different currencies in real time usin
 ---
 
 ## 🔗 Live Demo
-👉 [View the App on Vercel](currency-converter-one-lovat.vercel.app)
+👉 [View the App on Vercel](https://currency-converter-one-lovat.vercel.app/)
 
 ---
 
